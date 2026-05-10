@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Environment variables (contains API keys - never commit)
+**/.env
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# REPL state persisted by strands_tools
+repl_state/
+errors/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

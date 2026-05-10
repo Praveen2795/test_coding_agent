@@ -1,0 +1,9 @@
+strands-agents
+strands-agents[google]
+strands-agents-tools
+python-dotenv
+pandas
+openpyxl
+fastapi
+uvicorn
+numpy
